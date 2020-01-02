@@ -1,16 +1,18 @@
 import React from 'react';
-import { Route, Link } from 'react-router-dom'
-import About from './About'
-import Contact from './Contact'
+import { NavLink } from 'react-router-dom'
 
 function NavBar(){
+
     return(
-        <div className='header'>
+        <nav>
             <span>Kevin</span>
-            <Link to='/about'>
-                About
-            </Link>
-        </div>
+            <br></br>
+            <NavLink to='/' exact>Home</NavLink>
+            <br></br>
+            <NavLink to='/about' exact>About</NavLink>
+            <br></br>
+            <NavLink to='/contact'>Contact</NavLink>
+        </nav>
     )
 }
 
