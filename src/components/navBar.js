@@ -7,9 +7,9 @@ function NavBar(){
         <nav>
             <span>Kevin</span>
             <br></br>
-            <NavLink to='/' exact>Home</NavLink>
+            <NavLink to='/' >Home</NavLink>
             <br></br>
-            <NavLink to='/about' exact>About</NavLink>
+            <NavLink to='/about' >About</NavLink>
             <br></br>
             <NavLink to='/contact'>Contact</NavLink>
         </nav>
