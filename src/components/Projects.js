@@ -6,9 +6,9 @@ class Projects extends React.Component{
         return(
             <div>
                 <ul>
-                    <li>Project 1</li>
-                    <li>Project 2</li>
-                    <li>Project 3</li>
+                    <li>Flatiron Shoutouts/Secrets</li>
+                    <li>Name Rater</li>
+                    <li>Guess Who?</li>
                 </ul>
             </div>
         )
