@@ -4,9 +4,10 @@ function Contact(){
 
     return(
         <div>
-            <span> Email: sample</span>
-            <span> Phone: n/a </span>
-            <span> GitHub: n/a </span>
+            {/* add clickable links to these in the future */}
+            <span> Email: kevinlai76@gmail.com</span>
+            <span> Phone: (646)593-1914 </span>
+            <span> GitHub: https://github.com/KevinLai76 </span>
         </div>
     )
 }
