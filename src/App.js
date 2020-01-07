@@ -5,6 +5,7 @@ import Projects from './components/Projects'
 import About from './components/About'
 import Contact from './components/Contact'
 import NavBar from './components/NavBar'
+import Footer from './components/Footer'
 import { Route } from 'react-router-dom'
 
 function App() {
@@ -17,6 +18,9 @@ function App() {
         <Route exact path='/projects' component={Projects} />
         <Route exact path='/about' component={About} />
         <Route exacth path='/contact' component={Contact} />
+      </div>
+      <div className='Footer'>
+        <Footer />
       </div>
     </div>
   );
