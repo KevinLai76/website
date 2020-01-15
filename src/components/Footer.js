@@ -2,7 +2,7 @@ import React from 'react'
 
 function Footer(){
     return(
-        <div>
+        <div className='footer'>
             <small>@kevinlai</small>
             <br></br>
             <small>github favicon</small>
