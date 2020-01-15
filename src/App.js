@@ -11,15 +11,13 @@ import { Route } from 'react-router-dom'
 function App() {
 
   return (
-    <div className="App">
-      <div className="NavBar">
+    <div className="app">
         <NavBar />
         <Route exact path='/' component={Home} />
         <Route exact path='/projects' component={Projects} />
         <Route exact path='/about' component={About} />
         <Route exacth path='/contact' component={Contact} />
-      </div>
-      <div className='Footer'>
+      <div className='footer-container'>
         <Footer />
       </div>
     </div>
