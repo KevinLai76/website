@@ -10,8 +10,13 @@ class Home extends React.Component {
             <div className='body'>
                 <div className="bio-section">
                     <h1>Kevin Lai</h1>
-                    <p>Here is a short paragraph about some stuff that kevin has done.
-                       This also includes a brief intro in to his beliefs and methodology.
+                    <p>
+                        - brief intro (1-2 senctences)
+                        - what do you do?
+                            - what are your beiefs
+                            - what are you passionate about
+                            - what do you think you can contribute
+                        - thoughtful ending line
                     </p>
                 </div>
                 <div className='project-section'>
