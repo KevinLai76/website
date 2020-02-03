@@ -5,7 +5,7 @@ function NavBar(){
 
     return(
         <nav className='header'>
-            <div className="link-container">
+            <div className='link-container'>
                 <NavLink className='home-link' to='/'>Kevin</NavLink>
                 <NavLink className='projects-link' to='/projects'>Projects</NavLink>
                 <NavLink className='about-link' to='/about'>About</NavLink>
