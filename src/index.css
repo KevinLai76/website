@@ -15,3 +15,10 @@ code {
 .header {
   padding-top: 10em;
 }
+
+.footer {
+  padding: 200em;
+}
+.linkContainer {
+  margin-left: 10em;
+}
