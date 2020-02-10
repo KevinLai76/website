@@ -19,6 +19,6 @@ code {
 .footer {
   padding: 200em;
 }
-.linkContainer {
-  margin-left: 10em;
+.link-container {
+  float: right;
 }
