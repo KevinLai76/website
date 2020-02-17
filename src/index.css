@@ -35,3 +35,11 @@ code {
 .home-link {
   float: left;
 }
+
+.bio-section {
+  float: right;
+}
+
+.project-section {
+  padding-top: 10em;
+}
