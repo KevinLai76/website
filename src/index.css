@@ -17,5 +17,21 @@ code {
 }
 
 .footer {
-  padding: 200em;
+  padding: 20em;
+}
+
+.projects-link {
+  float: right;
+}
+
+.about-link {
+  float: right;
+}
+
+.contact-link {
+  float: right;
+}
+
+.home-link {
+  float: left;
 }
