@@ -12,6 +12,11 @@ code {
     monospace;
 }
 
+
+.link-container {
+  font-size: 34px;
+}
+
 .header {
   padding-top: 10em;
   position: fixed;
