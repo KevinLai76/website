@@ -43,9 +43,22 @@ code {
 }
 
 .bio-section {
-  float: right;
+  /* float: right; */
+  padding-top: 5em;
 }
 
 .project-section {
   padding-top: 10em;
+  float: left;
+}
+
+.about-section {
+  padding-top: 10em;
+  float: right;
+}
+
+.contact-section {
+  padding-top: 10em;
+  padding-bottom: 5em;
+  float: left;
 }
