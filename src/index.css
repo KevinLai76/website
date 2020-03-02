@@ -14,6 +14,14 @@ code {
 
 .header {
   padding-top: 10em;
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  /* background-color: grey; */
+  color: white;
+  text-align: center;
+
 }
 
 .footer {
@@ -44,7 +52,7 @@ code {
 
 .bio-section {
   /* float: right; */
-  padding-top: 5em;
+  padding-top: 15em;
 }
 
 .project-section {
