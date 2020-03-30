@@ -18,7 +18,7 @@ code {
 }
 
 .header {
-  padding-top: 10em;
+  padding-top: 5em;
   position: fixed;
   left: 0;
   top: 0;
@@ -58,7 +58,7 @@ code {
 
 .bio-section {
   /* float: right; */
-  padding-top: 15em;
+  padding-top: 8.33em;
 }
 
 .project-section {
@@ -75,4 +75,16 @@ code {
   padding-top: 10em;
   padding-bottom: 5em;
   float: left;
+}
+
+.contact-container {
+  padding-top: 8.33em;
+}
+
+.about-container {
+  padding-top: 8.33em;
+}
+
+.projects-container {
+  padding-top: 8.33em;
 }
