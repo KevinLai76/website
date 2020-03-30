@@ -23,7 +23,8 @@ code {
   left: 0;
   top: 0;
   width: 100%;
-  /* background-color: grey; */
+  background-color: grey;
+  opacity: .125;
   color: white;
   text-align: center;
 
