@@ -12,23 +12,35 @@ code {
     monospace;
 }
 
+/* header - begins */
 
 .link-container {
-  font-size: 1.5vw;
-}
-
-.header {
   padding-top: 5em;
   position: fixed;
   left: 0;
   top: 0;
   width: 100%;
-  background-color: grey;
-  opacity: .125;
+  background-color: lightgrey;
   color: white;
   text-align: center;
 
+  
+  font-size: 1.5vw;
 }
+
+/* moved code to child div within header might change still*/
+/* .header {
+  padding-top: 5em;
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  background-color: lightgrey;
+  color: white;
+  text-align: center;
+} */
+
+/* header - ends */
 
 .footer {
     position: fixed;
