@@ -40,18 +40,6 @@ code {
   text-align: center;
 } */
 
-/* header - ends */
-
-.footer {
-    position: fixed;
-    left: 0;
-    bottom: 0;
-    width: 100%;
-    background-color: grey;
-    color: white;
-    text-align: center;
-}
-
 .projects-link {
   float: right;
 }
@@ -67,6 +55,24 @@ code {
 .home-link {
   float: left;
 }
+
+/* header - ends */
+
+/* footer - start */
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: grey;
+    color: white;
+    text-align: center;
+}
+
+/* footer - end */
+
+/* body - start */
 
 .bio-section {
   /* float: right; */
@@ -100,3 +106,5 @@ code {
 .projects-container {
   padding-top: 8.33em;
 }
+
+/* body - end */
