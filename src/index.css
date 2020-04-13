@@ -77,22 +77,27 @@ code {
 .bio-section {
   /* float: right; */
   padding-top: 8.33em;
+  box-shadow: .5px .5px lightgrey;
 }
 
 .project-section {
   padding-top: 2.33em;
   float: left;
+  box-shadow: .5px .5px lightgrey;
+
 }
 
 .about-section {
   padding-top: 2.33em;
   float: right;
+  box-shadow: .5px .5px lightgrey;
 }
 
 .contact-section {
   padding-top: 2.33em;
   padding-bottom: 5em;
   float: left;
+  box-shadow: .5px .5px lightgrey;
 }
 
 .contact-container {
