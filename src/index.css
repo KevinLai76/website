@@ -43,18 +43,31 @@ code {
 .projects-link {
   float: right;
 }
+.projects-link:hover{
+  text-shadow: 1px 1px red;
+}
 
 .about-link {
   float: right;
+}
+.about-link:hover{
+  text-shadow: 1px 1px red;
 }
 
 .contact-link {
   float: right;
 }
+.contact-link:hover{
+  text-shadow: 1px 1px red;
+}
 
 .home-link {
   float: left;
 }
+.home-link:hover{
+  text-shadow: 1px 1px red;
+}
+
 
 /* header - ends */
 
