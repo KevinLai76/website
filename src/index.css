@@ -44,28 +44,28 @@ code {
   float: right;
 }
 .projects-link:hover{
-  text-shadow: 1px 1px red;
+  text-shadow: 1px 1px gray;
 }
 
 .about-link {
   float: right;
 }
 .about-link:hover{
-  text-shadow: 1px 1px red;
+  text-shadow: 1px 1px gray;
 }
 
 .contact-link {
   float: right;
 }
 .contact-link:hover{
-  text-shadow: 1px 1px red;
+  text-shadow: 1px 1px gray;
 }
 
 .home-link {
   float: left;
 }
 .home-link:hover{
-  text-shadow: 1px 1px red;
+  text-shadow: 1px 1px gray;
 }
 
 
