@@ -92,11 +92,13 @@ code {
 .bio-section {
   /* float: right; */
   padding-top: 8.33em;
+  font-size: 2vw;
   /* box-shadow: .5px .5px lightgrey; */
 }
 
 .project-section {
   padding-top: 2.33em;
+  font-size: .9vw;
   float: left;
   /* box-shadow: .5px .5px lightgrey; */
 
